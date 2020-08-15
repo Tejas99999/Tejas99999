@@ -1,5 +1,6 @@
 ### Hi there 👋
 ## I am A Web Developer and Competitive Coder
+![animated](https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif)
 
 <!--
 **Tejas99999/Tejas99999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
